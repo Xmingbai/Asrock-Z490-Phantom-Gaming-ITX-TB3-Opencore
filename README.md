@@ -20,7 +20,7 @@
 # ASROCK Z490 Phantom Gaming-ITX/TB3  opencore0.6.5
 ================================================================================
 
-Asrock-Z490-Phantom-Gaming-ITX-TB3  opencore0.6.5  hackintosh Catalina 10.15.x &   big sur 11.0.1
+Asrock-Z490-Phantom-Gaming-ITX-TB3  opencore0.6.5  hackintosh Catalina 10.15.x &   big sur 11.1
 
 
 # 1.基本硬件配置清单 及截图
