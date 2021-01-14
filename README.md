@@ -2,8 +2,6 @@
 # ASROCK Z490 Phantom Gaming-ITX/TB3  opencore0.6.5
 ===============================================================================
 
-更新部分
-
 ☆ 升级kext驱动到最新正式版本
 
 ☆ 新增一组配置文件 AMD RX5XX& IGPU.plist
@@ -12,14 +10,10 @@
 
 ☆ 正常直升11.1 20C69
 
+
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-ac-hackintosh-Opencore/blob/main/11.1%2020C69.png)
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-ac-hackintosh-Opencore/blob/main/%E6%96%B0OC%E4%B8%BB%E9%A2%98.png)
-
-
-
-
-
 
 ================================================================================
 
@@ -49,7 +43,7 @@ https://www.bilibili.com/read/cv8721205
 
 # 2.macOS 状况
 
-OC0.6.3 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级，支持直装
+OC0.6.5 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级，支持直装
 
 ## PC截图
 
@@ -58,6 +52,7 @@ OC0.6.3 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级，支持直装
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/CPU%20geekbench.png)
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/IGPU%20DP%25HDMI.png)
+
 
 ## 基本功能
 
@@ -85,9 +80,11 @@ CPU正常睿频
 
 https://www.bilibili.com/read/cv7393476
 
+雷电3 bios设置参考截图
+
+
 
 另 四大主板厂商华擎、华硕、维修、技嘉 针对性 详细截图 黑苹果bios设置 参考B站专栏
-
 
 https://space.bilibili.com/591453294/article
 
@@ -136,7 +133,7 @@ NVMeFix.kext----------------------1.0.4
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/USBports.png)
 
-双网口附近的4个USB支持10G速率
+4个USB支持10G速率
 
 
 ### USB具体分布如下图
