@@ -9,9 +9,13 @@
 ☆ 正常直升11.1 20C69
 
 
-![](https://github.com/Xmingbai/asrock-Z490M-itx-ac-hackintosh-Opencore/blob/main/11.1%2020C69.png)
+![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
 
-![](https://github.com/Xmingbai/asrock-Z490M-itx-ac-hackintosh-Opencore/blob/main/%E6%96%B0OC%E4%B8%BB%E9%A2%98.png)
+如何切换到背景无提示的纯净方式呢？
+
+EFI/OC/Resources/Image/NoTipsBackground.icns文件改名为Background.icns即可（先改名同名文件）
+
+![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/NoTipsBackground.png)
 
 ================================================================================
 
