@@ -18,7 +18,7 @@ Wi-Fi：intel AX200 更换为 BCM94352Z （更换步骤参考B站视频操作）
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 
 
-## 2.macOS 基本功能
+## 2.macOS实现的功能
 
 CPU正常睿频
 
@@ -84,7 +84,7 @@ https://www.bilibili.com/read/cv8721205
 
 
 
-# 3.bios 设置参考指南   
+# 4.bios 设置参考指南   
 
 https://www.bilibili.com/read/cv7393476
 
@@ -97,7 +97,7 @@ https://www.bilibili.com/read/cv7393476
 https://space.bilibili.com/591453294/article
 
 
-# 4.OC0.6.4 引导使用指南 
+# 5.OC0.6.5 引导使用指南 
 
 ## 4.1 基本驱动及对应版本
 
@@ -113,12 +113,12 @@ LucyRTL8125Ethernet.kext---------1.0.0
 
 
 
-## 4.2 OC配置文件config.plist如何使用
+## 5.1 OC配置文件config.plist如何使用
 
 
 
 
-## 4.3 USB端口定制了15个端口，见USBports截图
+## 5.2 USB端口定制了15个端口，见USBports截图
 
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E4%B8%BB%E6%9D%BFUSB%E5%90%8E%E7%BD%AE%E5%88%86%E5%B8%83.png)
 
@@ -128,7 +128,7 @@ LucyRTL8125Ethernet.kext---------1.0.0
 
 
 
-## 4.4 如何使用2.5G有线网卡
+## 5.3如何使用2.5G有线网卡
  
  联网设置：系统偏好设置—-网络—以太网—高级——硬件—配置有自动改为手动，速率手工设置为1000 全双工（或100，取决于网线链接路由器的端口速率），见图
 
