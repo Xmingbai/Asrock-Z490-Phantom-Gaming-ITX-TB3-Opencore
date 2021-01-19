@@ -108,6 +108,11 @@ LucyRTL8125Ethernet.kext---------1.0.0
 
 ## 5.1 OC配置文件config.plist如何使用
 
+A.请变更三码食用，i9 cpu采用imac20.2，i9以下级别采用iMac20.1
+
+B.device property 中已有5500、5600&5700 显卡仿冒优化参数，去掉显卡路径前面#符号即可启用
+
+C.启动参数中 agdpmod=pikera 一般仅使用5500&5600&5700显卡时保留，使用其他显卡请删除该参数
 
 
 
