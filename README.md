@@ -41,13 +41,6 @@ TYPE-C雷电 支持视频输出、雷电硬盘 且支持热插拔，外接显卡
 
 未修正的地方 ：缺少雷劈信息
 
-![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
-
-![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/CPU%20geekbench.png)
-
-![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/IGPU%20DP%25HDMI.png)
-
-![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E5%8F%8C%E6%98%BE%E5%8D%A1.png)
 
 
 
