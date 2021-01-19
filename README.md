@@ -1,31 +1,7 @@
 # 编辑更新中
-
 ==========================================================================
-# ASROCK Z490 Phantom Gaming-ITX/TB3  opencore0.6.5
+#  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.6.5 hackintosh Catalina 10.15.x & big sur 11.1
 ==========================================================================
-
-☆ 升级kext驱动到最新正式版本
-
-☆ 更换OC主题包
-
-☆ 正常直升11.1 20C69
-
-
-![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
-
-如何切换到背景无提示的纯净方式呢？
-
-EFI/OC/Resources/Image/NoTipsBackground.icns文件改名为Background.icns即可（先改名同名文件）
-
-![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/NoTipsBackground.png)
-
-===========================================================================
-
-# ASROCK Z490 Phantom Gaming-ITX/TB3  opencore0.6.4
-===========================================================================
-
-Asrock-Z490-Phantom-Gaming-ITX-TB3  opencore0.6.5  hackintosh Catalina 10.15.x &   big sur 11.1
-
 
 # 1.基本硬件配置清单 及截图
 
@@ -39,26 +15,10 @@ Wi-Fi：intel AX200 更换为 BCM94352Z （更换步骤参考B站视频操作）
 
 内存；十铨火神DDR4 3000  16gx2
 
-# 若有其他问题请加Q群：1125705781，备注小明或者B站，也欢迎关注B站：小明和他的女朋友
-
-此份操作指南 同步 发布于B站专栏，方便国内访问  
-
-https://www.bilibili.com/read/cv8721205 
-
-# 2.macOS 状况
-
-OC0.6.5 支持Catalina 10.15.x 和Big Sur 11.1 支持OTA升级，支持直装
-
-## PC截图
-
-![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
-
-![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/CPU%20geekbench.png)
-
-![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/IGPU%20DP%25HDMI.png)
+![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 
 
-## 基本功能
+## 2.macOS 基本功能
 
 CPU正常睿频
 
@@ -80,6 +40,49 @@ TYPE-C雷电 支持视频输出、雷电硬盘 且支持热插拔，外接显卡
 
 
 未修正的地方 ：缺少雷劈信息
+
+![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
+
+![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/CPU%20geekbench.png)
+
+![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/IGPU%20DP%25HDMI.png)
+
+![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E5%8F%8C%E6%98%BE%E5%8D%A1.png)
+
+
+
+
+
+
+# 3. OC 0.6.5 更新说明
+
+☆ OC0.6.5 支持Catalina 10.15.x 和Big Sur 11.1 支持OTA升级，支持直装
+
+☆ 升级kext驱动到最新正式版本
+
+☆ 更换OC主题包
+
+
+
+![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
+
+如何切换到背景无提示的纯净方式呢？
+
+EFI/OC/Resources/Image/NoTipsBackground.icns文件改名为Background.icns即可（先改名同名文件）
+
+![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/NoTipsBackground.png)
+
+
+
+# 若有其他问题请加Q群：1125705781，备注小明或者B站，也欢迎关注B站：小明和他的女朋友
+
+
+此份操作指南 同步 发布于B站专栏，方便国内访问  
+
+https://www.bilibili.com/read/cv8721205 
+
+
+
 
 # 3.bios 设置参考指南   
 
