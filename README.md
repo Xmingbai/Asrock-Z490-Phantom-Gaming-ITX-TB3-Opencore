@@ -49,7 +49,6 @@ TYPE-C雷电 支持视频输出、雷电硬盘 且支持热插拔，外接显卡
 
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E9%9B%B7%E7%94%B5%E5%A4%96%E6%8E%A5%E6%98%BE%E5%8D%A1RX5500XT.png)
 
-
 # 3. OC 0.6.5 更新说明
 
 ☆ OC0.6.5 支持Catalina 10.15.x 和Big Sur 11.1 支持OTA升级，支持直装
@@ -60,7 +59,6 @@ TYPE-C雷电 支持视频输出、雷电硬盘 且支持热插拔，外接显卡
 
 ☆ config.plist 添加了5500、5600&5700 显卡仿冒优化参数
 
-
 ![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
 
 如何切换到背景无提示的纯净方式呢？
@@ -69,17 +67,11 @@ EFI/OC/Resources/Image/NoTipsBackground.icns文件改名为Background.icns即可
 
 ![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/NoTipsBackground.png)
 
-
-
 # 若有其他问题请加Q群：1125705781，备注小明或者B站，也欢迎关注B站：小明和他的女朋友
-
 
 此份操作指南 同步 发布于B站专栏，方便国内访问  
 
 https://www.bilibili.com/read/cv8721205 
-
-
-
 
 # 4.bios 设置参考指南   
 
@@ -89,15 +81,13 @@ https://www.bilibili.com/read/cv7393476
 
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/TB3-BIOS.BMP)
 
-
 另 四大主板厂商华擎、华硕、维修、技嘉 针对性 详细截图 黑苹果bios设置 参考B站专栏
 
 https://space.bilibili.com/591453294/article
 
-
 # 5.OC0.6.5 引导使用指南 
 
-## 4.1 基本驱动及对应版本
+## 5.1 基本驱动及对应版本
 
 Lilu.kext----------------------------1.5.1
 
@@ -109,9 +99,7 @@ AppleALC.kext---------------------1.5.6
 
 LucyRTL8125Ethernet.kext---------1.0.0
 
-
-
-## 5.1 OC配置文件config.plist如何使用
+## 5.2 OC配置文件config.plist如何使用
 
 A.请变更三码食用，i9 cpu采用imac20.2，i9以下级别采用iMac20.1
 
@@ -124,8 +112,7 @@ C.启动参数中 agdpmod=pikera 一般仅使用5500&5600&5700显卡时保留，
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/kext.png)
 
 
-
-## 5.2 USB端口定制了15个端口，见USBports截图
+## 5.3 USB端口定制了15个端口，见USBports截图
 
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E4%B8%BB%E6%9D%BFUSB%E5%90%8E%E7%BD%AE%E5%88%86%E5%B8%83.png)
 
@@ -139,17 +126,14 @@ C.启动参数中 agdpmod=pikera 一般仅使用5500&5600&5700显卡时保留，
 
 还保留了前置有2个USB3.0的USB端口定制，有需要的可以启用 USBPorts_2USB3.0.kext
 
-
-
-## 5.3如何使用2.5G有线网卡
+## 5.4如何使用2.5G有线网卡
  
  联网设置：系统偏好设置—-网络—以太网—高级——硬件—配置有自动改为手动，速率手工设置为1000 全双工（或100，取决于网线链接路由器的端口速率），见图
-
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/2.5G%E7%BD%91%E5%8D%A1%E8%AE%BE%E7%BD%AE.png)
 
 # 若有其他问题请加Q群：1125705781，备注小明或者B站
 
-# 也欢迎关注B站：小明和他的女朋友
+# 也欢迎关注B站：小明和他的女朋友  或者 
 
 https://space.bilibili.com/591453294?spm_id_from=333.788.b_765f7570696e666f.2
