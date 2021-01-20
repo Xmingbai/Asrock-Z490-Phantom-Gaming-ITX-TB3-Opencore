@@ -50,6 +50,12 @@ TYPE-C雷电 支持视频输出、雷电硬盘 且支持热插拔，外接显卡
 
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E9%9B%B7%E7%94%B5%E5%A4%96%E6%8E%A5%E6%98%BE%E5%8D%A1RX5500XT.png)
 
+Windows 方面
+
+![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/Windows%20%E5%A4%96%E6%8E%A5%E9%9B%B7%E7%94%B5%E7%A1%AC%E7%9B%98%E7%9B%92.JPG)
+
+![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/Windows%20%E5%A4%96%E6%8E%A5%E9%9B%B7%E7%94%B5%E7%A1%AC%E7%9B%98%E7%9B%92.JPG)
+
 
 # 3. OC 0.6.5 更新说明
 
