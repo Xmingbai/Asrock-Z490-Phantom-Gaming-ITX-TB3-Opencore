@@ -17,7 +17,6 @@ Wi-Fi：intel AX200 更换为 BCM94352Z （更换步骤参考B站视频操作）
 
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 
-
 ## 2.macOS实现的功能
 
 CPU正常睿频
@@ -49,6 +48,7 @@ TYPE-C雷电 支持视频输出、雷电硬盘 且支持热插拔，外接显卡
 
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E9%9B%B7%E7%94%B5%E5%A4%96%E6%8E%A5%E6%98%BE%E5%8D%A1RX5500XT.png)
 
+
 # 3. OC 0.6.5 更新说明
 
 ☆ OC0.6.5 支持Catalina 10.15.x 和Big Sur 11.1 支持OTA升级，支持直装
@@ -59,6 +59,7 @@ TYPE-C雷电 支持视频输出、雷电硬盘 且支持热插拔，外接显卡
 
 ☆ config.plist 添加了5500、5600&5700 显卡仿冒优化参数
 
+
 ![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
 
 如何切换到背景无提示的纯净方式呢？
@@ -67,11 +68,13 @@ EFI/OC/Resources/Image/NoTipsBackground.icns文件改名为Background.icns即可
 
 ![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/NoTipsBackground.png)
 
+
 # 若有其他问题请加Q群：1125705781，备注小明或者B站，也欢迎关注B站：小明和他的女朋友
 
 此份操作指南 同步 发布于B站专栏，方便国内访问  
 
 https://www.bilibili.com/read/cv8721205 
+
 
 # 4.bios 设置参考指南   
 
@@ -84,6 +87,7 @@ https://www.bilibili.com/read/cv7393476
 另 四大主板厂商华擎、华硕、维修、技嘉 针对性 详细截图 黑苹果bios设置 参考B站专栏
 
 https://space.bilibili.com/591453294/article
+
 
 # 5.OC0.6.5 引导使用指南 
 
@@ -110,7 +114,6 @@ C.启动参数中 agdpmod=pikera 一般仅使用5500&5600&5700显卡时保留，
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E6%98%BE%E5%8D%A1%20device.png)
 
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/kext.png)
-
 
 ## 5.3 USB端口定制了15个端口，见USBports截图
 
