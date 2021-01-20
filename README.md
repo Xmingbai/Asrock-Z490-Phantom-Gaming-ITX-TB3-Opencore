@@ -41,10 +41,13 @@ TYPE-C雷电 支持视频输出、雷电硬盘 且支持热插拔，外接显卡
 
 未修正的地方 ：缺少雷劈信息
 
+![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/PCI.png)
 
+![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/R20.png)
 
+![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/geekbench.png)
 
-
+![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E9%9B%B7%E7%94%B5%E5%A4%96%E6%8E%A5%E6%98%BE%E5%8D%A1RX5500XT.png)
 
 
 # 3. OC 0.6.5 更新说明
@@ -55,6 +58,7 @@ TYPE-C雷电 支持视频输出、雷电硬盘 且支持热插拔，外接显卡
 
 ☆ 更换OC主题包
 
+☆ config.plist 添加了5500、5600&5700 显卡仿冒优化参数
 
 
 ![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
@@ -83,6 +87,7 @@ https://www.bilibili.com/read/cv7393476
 
 雷电3 bios设置参考截图
 
+![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/TB3-BIOS.BMP)
 
 
 另 四大主板厂商华擎、华硕、维修、技嘉 针对性 详细截图 黑苹果bios设置 参考B站专栏
@@ -114,6 +119,10 @@ B.device property 中已有5500、5600&5700 显卡仿冒优化参数，去掉显
 
 C.启动参数中 agdpmod=pikera 一般仅使用5500&5600&5700显卡时保留，使用其他显卡请删除该参数
 
+![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E6%98%BE%E5%8D%A1%20device.png)
+
+![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/kext.png)
+
 
 
 ## 5.2 USB端口定制了15个端口，见USBports截图
@@ -123,6 +132,12 @@ C.启动参数中 agdpmod=pikera 一般仅使用5500&5600&5700显卡时保留，
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E4%B8%BB%E6%9D%BF%E5%89%8D%E7%BD%AE.png)
 
 3个USB支持10G速率
+
+默认是前置只有一个TYPE-C的USB端口定制
+
+![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/USBports.png)
+
+还保留了前置有2个USB3.0的USB端口定制，有需要的可以启用 USBPorts_2USB3.0.kext
 
 
 
