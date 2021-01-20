@@ -2,6 +2,9 @@
 #  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.6.5 hackintosh Catalina 10.15.x & big sur 11.1
 ==========================================================================
 
+操作说明文档同步于B站专栏： https://www.bilibili.com/read/cv9360709?share_medium=iphone&share_plat=ios&share_source=QQ&share_tag=s_i&timestamp=1611116372&unique_k=avREvp
+
+
 # 1.基本硬件配置清单 及截图
 
 CPU：i9-10850K（可以支持所有十代）
