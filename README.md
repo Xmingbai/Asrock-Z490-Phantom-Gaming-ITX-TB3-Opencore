@@ -17,6 +17,8 @@ Wi-Fi：intel AX200 更换为 BCM94352Z （更换步骤参考B站视频操作）
 
 内存；十铨火神DDR4 3000  16gx2
 
+显卡：一块NVIDIA K4200 和 一块 AMD RX5500XT 作为测试
+
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/big%20sur%2011.2.jpg)
 
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
