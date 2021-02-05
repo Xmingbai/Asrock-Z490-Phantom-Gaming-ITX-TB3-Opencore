@@ -4,6 +4,12 @@
 
 操作说明文档同步于B站专栏： https://www.bilibili.com/read/cv9360709?share_medium=iphone&share_plat=ios&share_source=QQ&share_tag=s_i&timestamp=1611116372&unique_k=avREvp
 
+若有其他问题请加Q群：1125705781，备注小明或者B站
+
+也欢迎关注B站：小明和他的女朋友
+
+https://space.bilibili.com/591453294?spm_id_from=333.788.b_765f7570696e666f.2
+
 
 # 1.基本硬件配置清单 及截图
 
