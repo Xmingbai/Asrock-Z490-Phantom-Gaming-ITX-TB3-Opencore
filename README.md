@@ -1,5 +1,5 @@
 ==========================================================================
-#  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.6.5 hackintosh Catalina 10.15.x & big sur 11.2
+#  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.6.6 hackintosh Catalina 10.15.x & big sur 11.2 &11.3 beta
 ==========================================================================
 
 操作说明文档同步于B站专栏： https://www.bilibili.com/read/cv9360709?share_medium=iphone&share_plat=ios&share_source=QQ&share_tag=s_i&timestamp=1611116372&unique_k=avREvp
@@ -39,7 +39,7 @@ CPU正常睿频
 
 若使用独显5500、5600、5700 配置文件自带显卡性能优化，请在device中手动启用
 
-音频输出正常（alcid=1）,支持开机启动音
+音频输出正常（alcid=1）,支持开机启动音，支持显示器音频
 
 支持2.5G有线网卡
 
@@ -67,7 +67,20 @@ Windows 方面
 ![](https://github.com/Xmingbai/Asrock-Z490-Phantom-Gaming-ITX-TB3-Opencore/blob/main/Windows%20%E5%A4%96%E6%8E%A5%E9%9B%B7%E7%94%B5%E7%A1%AC%E7%9B%98%E7%9B%92.JPG)
 
 
-# 3. OC 0.6.5 更新说明
+# 3.OC 0.6.6 更新说明
+
+☆ 升级kext驱动到最新正式版本
+
+☆ 音频输出 增加了核显（DP或者HDMI）显示器音频输出
+
+☆ device properties 内包含RX55000xt\5600&5700优化信息，需要手工启用（去掉前置#就行）
+
+☆ 更换OC主题包（支持OC UI 随意切换有三个背景选择，改名为Background.icns即可）
+
+☆ 正常直升11.2 （支持11.3 beta x）
+
+
+# OC 0.6.5 更新说明
 
 ☆ OC0.6.5 支持Catalina 10.15.x 和Big Sur 11.1 支持OTA升级，支持直装
 
