@@ -1,5 +1,11 @@
 ==========================================================================
-#  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.6.6 hackintosh Catalina 10.15.x & big sur 11.2 &11.3 beta
+#  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.6.8 hackintosh Catalina 10.15.x & big sur 11.2 &11.3
+
+OC及kexts常规性更新
+
+==========================================================================
+==========================================================================
+#  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.6.6 hackintosh Catalina 10.15.x & big sur 11.2 &11.3
 ==========================================================================
 
 操作说明文档同步于B站专栏： https://www.bilibili.com/read/cv9360709?share_medium=iphone&share_plat=ios&share_source=QQ&share_tag=s_i&timestamp=1611116372&unique_k=avREvp
