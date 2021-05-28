@@ -1,5 +1,5 @@
 ==========================================================================
-#  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.6.8 hackintosh Catalina 10.15.x & big sur 11.2 &11.3.x
+#  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.6.8 hackintosh Catalina 10.15.x & big sur 11.x
 
 OC及kexts常规性更新
 
