@@ -1,3 +1,13 @@
+
+==========================================================================
+#  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.7.4 hackintosh Catalina 10.15.x & big sur 11.x
+
+更新至OC0.7.4
+更新kexts
+5500/5600/5700/6800/6900系列显卡添加启动参数agdpmod=pikera
+
+
+
 ==========================================================================
 #  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.6.8 hackintosh Catalina 10.15.x & big sur 11.x
 
