@@ -1,3 +1,11 @@
+#  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.7.4 hackintosh Catalina 10.15.x & big sur 11.x & Monterey 12.x
+
+
+更新至OC0.8.0正式版，支持MacOS12.x
+更新OC及kexts
+博通无线网卡已经添加了对应驱动，Intel WIFI需自行添加
+默认config.plist 支持5500/5600/5700/6600/6800/6900系列显卡
+核显用户需IGPU-config.plist改名为config.plist
 
 ==========================================================================
 #  Asrock-Z490-Phantom-Gaming-ITX-TB3 opencore0.7.4 hackintosh Catalina 10.15.x & big sur 11.x
